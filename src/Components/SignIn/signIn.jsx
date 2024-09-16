@@ -6,6 +6,7 @@ const SignIn = ({ activeForm }) => {
   const handleFormChange = (form) => {
     setCurrentForm(form);
   };
+// Ignore this comment
 
   return (
     <div className="bg-white shadow-lg rounded-lg p-8 max-w-xs md:max-w-md w-full mx-auto">

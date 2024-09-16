@@ -6,9 +6,7 @@ function App() {
     <>
       <div>
         <LandingPage/>
-        {/* <Profile/> */}
-        {/* <Navbar />
-        <Footer /> */}
+        
       </div>
     </>
   );

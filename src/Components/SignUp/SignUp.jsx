@@ -32,7 +32,7 @@ const SignUp = ({ activeForm }) => {
                 ✕
               </button>
 
-              {/* Sign Up Form */}
+              {/* Sign Up Section */}
               {currentForm === 'signup' && (
                 <div id="signup-form">
                   <h2 className="text-xl md:text-2xl font-bold text-center text-gray-800 mb-6">Sign Up</h2>

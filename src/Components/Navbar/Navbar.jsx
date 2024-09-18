@@ -26,6 +26,7 @@ const Navbar = () => {
 
   return (
     <>
+    {/* Nav Bar Section */}
       <header className="text-gray-600 body-font">
         <div className="fixed bg-gradient-to-r from-purple-400 via-pink-500 to-red-500 container mx-auto flex flex-wrap p-5 flex-col md:flex-row items-center z-50">
           <a className="flex title-font font-medium items-center text-gray-900 mb-4 md:mb-0">

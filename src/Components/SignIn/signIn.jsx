@@ -8,7 +8,8 @@ const SignIn = ({ activeForm }) => {
   };
 
   const handleClose = () => {
-    setCurrentForm(null); // Close the modal by setting currentForm to null
+    setCurrentForm(null); 
+    // Close the modal by setting currentForm to null
   };
 
   return (
